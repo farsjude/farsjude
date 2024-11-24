@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @farsjude
-- 👀 I’m interested in coding but mostly videos
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me discord
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C/C++
+- 💞️ I’m looking to collaborate on no body...
+- 📫 How to reach me discord: wise_starfish_17342
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: if you say fun fact everyone will read it
 
