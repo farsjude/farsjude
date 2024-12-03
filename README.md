@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farsjude
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++/Rust  i like low level stuff
 - 💞️ I’m looking to collaborate on no body...
 - 📫 How to reach me discord: wise_starfish_17342
 - 😄 Pronouns: he/him
